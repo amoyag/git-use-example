@@ -1,2 +1,6 @@
 After writing some random stuff. I keep working and write up more stuff.
 
+Add a lie to play with git revert:
+
+Some false statemet I want to remove later
+
